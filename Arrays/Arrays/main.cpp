@@ -1,8 +1,8 @@
-#include <iostream>
+п»ї#include <iostream>
 using namespace std;
 
 void main()
 {
 	setlocale(LC_ALL, "");
-	//Шото связано с массивами
+	//РЁРѕС‚Рѕ СЃРІСЏР·Р°РЅРѕ СЃ РјР°СЃСЃРёРІР°РјРё
 }
